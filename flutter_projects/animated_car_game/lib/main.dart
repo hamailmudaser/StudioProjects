@@ -162,6 +162,7 @@ class _GameScreenState extends State<GameScreen> {
             ),
           ),
           // Score
+
           Positioned(
             top: 50,
             left: 20,
