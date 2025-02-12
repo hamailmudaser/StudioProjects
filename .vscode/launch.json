@@ -1,0 +1,181 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        
+        {
+            "name": "Dart",
+            "type": "dart",
+            "request": "launch",
+            "program": "bin/main.dart"
+        },
+        {
+            "name": "Flutter: Run all Tests",
+            "type": "dart",
+            "request": "launch",
+            "program": "./test/"
+        },
+        {
+            "name": "pro",
+            "cwd": "pro",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "pro (profile mode)",
+            "cwd": "pro",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "pro (release mode)",
+            "cwd": "pro",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "animated_car_game",
+            "cwd": "flutter_projects\\animated_car_game",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "animated_car_game (profile mode)",
+            "cwd": "flutter_projects\\animated_car_game",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "animated_car_game (release mode)",
+            "cwd": "flutter_projects\\animated_car_game",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "Counter",
+            "cwd": "flutter_projects\\Counter",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "Counter (profile mode)",
+            "cwd": "flutter_projects\\Counter",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "Counter (release mode)",
+            "cwd": "flutter_projects\\Counter",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "first_pro",
+            "cwd": "flutter_projects\\first_pro",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "first_pro (profile mode)",
+            "cwd": "flutter_projects\\first_pro",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "first_pro (release mode)",
+            "cwd": "flutter_projects\\first_pro",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "Haze_snake",
+            "cwd": "flutter_projects\\Haze_snake",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "Haze_snake (profile mode)",
+            "cwd": "flutter_projects\\Haze_snake",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "Haze_snake (release mode)",
+            "cwd": "flutter_projects\\Haze_snake",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "login_interface",
+            "cwd": "flutter_projects\\login_interface",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "login_interface (profile mode)",
+            "cwd": "flutter_projects\\login_interface",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "login_interface (release mode)",
+            "cwd": "flutter_projects\\login_interface",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "second",
+            "cwd": "flutter_projects\\second",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "second (profile mode)",
+            "cwd": "flutter_projects\\second",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "second (release mode)",
+            "cwd": "flutter_projects\\second",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "snake",
+            "cwd": "flutter_projects\\snake",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "snake (profile mode)",
+            "cwd": "flutter_projects\\snake",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "snake (release mode)",
+            "cwd": "flutter_projects\\snake",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        }
+    ]
+}

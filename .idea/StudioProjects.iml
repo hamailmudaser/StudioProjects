@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/flutter_projects/Counter/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_projects/Counter/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_projects/Counter/build" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_projects/Haze_snake/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_projects/Haze_snake/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_projects/Haze_snake/build" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_projects/animated_car_game/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_projects/animated_car_game/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_projects/animated_car_game/build" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_projects/ballz/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_projects/ballz/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_projects/ballz/build" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_projects/first_pro/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_projects/first_pro/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_projects/first_pro/build" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_projects/login_interface/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_projects/login_interface/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_projects/login_interface/build" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_projects/my_app/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_projects/my_app/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_projects/my_app/build" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_projects/second/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_projects/second/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_projects/second/build" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_projects/snake/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_projects/snake/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_projects/snake/build" />
+      <excludeFolder url="file://$MODULE_DIR$/my_app/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/my_app/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/my_app/build" />
+      <excludeFolder url="file://$MODULE_DIR$/pro/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/pro/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/pro/build" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Dart SDK" level="project" />
+    <orderEntry type="library" name="Dart Packages" level="project" />
+  </component>
+</module>
